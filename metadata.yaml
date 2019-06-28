@@ -1,0 +1,31 @@
+_repo: Collections-of-the-Minnesota-Historical-Society-for-the-Year-1867_59793
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hill, A. J. (Alfred James)
+    birthdate: 1833
+    deathdate: 1895
+    gutenberg_agent_id: '31892'
+    url: http://www.gutenberg.org/2009/agents/31892
+  - agent_name: Rice, H. M.
+    gutenberg_agent_id: '50630'
+    url: http://www.gutenberg.org/2009/agents/50630
+  - agent_name: Mayo, Charles E.
+    gutenberg_agent_id: '50629'
+    url: http://www.gutenberg.org/2009/agents/50629
+  - agent_name: Pond, G. H.
+    gutenberg_agent_id: '50631'
+    url: http://www.gutenberg.org/2009/agents/50631
+description: ''
+gutenberg_issued: '2019-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Collections of the Minnesota Historical Society for the Year 1867
+url: http://www.gutenberg.org/ebooks/59793
